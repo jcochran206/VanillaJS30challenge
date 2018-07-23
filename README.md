@@ -1,17 +1,17 @@
 # VanillaJS30challenge
-##Description
+## Description
 This is a challenge to use only standard JS library without using other frameworks, libraries, compilers, and boilerplates
-##technologies used
+## technologies used
 - HTML5
 - CSS3
 - JavaScript
 - Git
-##Setup
+## Setup
 - use git clone in your terminal
 - open folder with your favorite editor
 - view with your specific browser
 
-##Author
+## Author
 Copyright &copy; 2018 Jonathan Cochran
-##Legal
+## Legal
 This software is licensed under the MIT License for open source software
